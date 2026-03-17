@@ -1,0 +1,6 @@
+x1=int(input("x1 değerini giriniz: "))
+y1=int(input("y1 değerini giriniz: "))
+x2=int(input("x2 değerini giriniz: "))
+y2=int(input("y2 değerini giriniz: "))
+m=(y2-y1)/(x2-x1)
+print("Girdiğiniz noktalardan geçen doğrunun eğimi:",m)
